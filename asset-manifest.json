@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bluetick-Consultants-Assignment/static/css/main.c2796227.css",
+    "main.js": "/Bluetick-Consultants-Assignment/static/js/main.fab80cf7.js",
+    "static/js/453.1f36a34a.chunk.js": "/Bluetick-Consultants-Assignment/static/js/453.1f36a34a.chunk.js",
+    "index.html": "/Bluetick-Consultants-Assignment/index.html",
+    "main.c2796227.css.map": "/Bluetick-Consultants-Assignment/static/css/main.c2796227.css.map",
+    "main.fab80cf7.js.map": "/Bluetick-Consultants-Assignment/static/js/main.fab80cf7.js.map",
+    "453.1f36a34a.chunk.js.map": "/Bluetick-Consultants-Assignment/static/js/453.1f36a34a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2796227.css",
+    "static/js/main.fab80cf7.js"
+  ]
+}
